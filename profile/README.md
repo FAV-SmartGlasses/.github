@@ -1,6 +1,6 @@
 # 🛠️ OptiForge
 
-Welcome to **OptiForge** — a student-led initiative reimagining immersive technology. We are a passionate group of students building an **AR & VR headset** powered by the **Raspberry Pi 5**.
+Welcome to **OptiForge** - a student-led initiative reimagining immersive technology. We are a passionate group of students building an **AR & VR headset** powered by the **Raspberry Pi 5**.
 
 ---
 
