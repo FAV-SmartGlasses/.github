@@ -56,6 +56,25 @@ OptiForge is made up of a group of curious, caffeine-fueled students obsessed wi
 
 ---
 
+## 🔎 How to not get lost in our repository system
+
+We have multiple repositories, so here is a quick explanation
+
+
+- Assembly-Instructions - this is just a guide on how to build our glasses
+
+- Documentation - looking for anything related to software? This is the place where you should start
+
+- .github - this text
+
+- Discord-API - our Discord API
+
+- SmartGlasses - main Repository
+
+- OptiForge-VR-Driver - our OpenVR driver
+
+---
+
 ## 📜 License
 
 This project is licensed under the **Apache 2.0**
