@@ -61,17 +61,17 @@ OptiForge is made up of a group of curious, caffeine-fueled students obsessed wi
 We have multiple repositories, so here is a quick explanation
 
 
-- Assembly-Instructions - this is just a guide on how to build our glasses
+- **Assembly-Instructions** - this is just a guide on how to build our glasses
 
-- Documentation - looking for anything related to software? This is the place where you should start
+- **Documentation** - looking for anything related to software? This is the place where you should start
 
-- .github - this text
+- **.github** - this text
 
-- Discord-API - our Discord API
+- **Discord** - our Discord API
 
-- SmartGlasses - main Repository
+- **SmartGlasses** - main Repository
 
-- OptiForge-VR-Driver - our OpenVR driver
+- **OptiForge-VR-Driver** - our OpenVR driver
 
 ---
 
